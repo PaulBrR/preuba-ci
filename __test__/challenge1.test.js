@@ -1,4 +1,4 @@
-const {suma } = require("../index");
+const {suma, resta } = require("../index");
 
 test('Debería regresar 8 al pasar como argumentos 6 y 2', () => {
     let a = 6;
